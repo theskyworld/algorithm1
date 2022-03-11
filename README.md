@@ -1,2 +1,2 @@
 # algorithm1
-对应脑图中的算法2中的内容
+for the consideration of algorithm2 locally
